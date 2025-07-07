@@ -1,8 +1,6 @@
 # 🛍️ Power BI Project – Madhav Ecommerce Sales Dashboard
 
-This project is a complete end-to-end **Power BI dashboard** that visualizes key sales insights from an e-commerce business. It showcases core skills in **data cleaning, business analysis, DAX, and dashboard design**—ideal for job-ready Data Analyst portfolios.
-
----
+This project is about analyzing sales data from a e-commerce business using Power BI. It includes data cleaning, data modeling, KPI creation, and interactive dashboard design to help understand business performance and trends.
 
 ## 📊 Project Overview
 
